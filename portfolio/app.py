@@ -41,7 +41,7 @@ st.markdown("""
 
 # SIDEBAR NAVIGATION & CONTROLS
 with st.sidebar:
-    st.image("Selfie.jpg", caption="Gave C. Hontiveros", use_container_width=True)
+    st.image("portfolio/Selfie.jpg", caption="Gave C. Hontiveros", use_container_width=True)
     st.markdown("### **Gave C. Hontiveros**")
     st.markdown("**Program:** BS Computer Science")
     st.markdown("**Section:** G5")
